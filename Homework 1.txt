@@ -1,0 +1,16 @@
+Noteaza 4 functii principale ale site-ului, ordonandu-le in functie de prioritate.
+
+1. Cursul valutar online
+2. Convertorul Valutar
+3. Cursul valutar al bancilor
+4. Evolutia cursurilor valutare
+
+
+Descrie ce funcții pot fi îndeplinite de QA în fiecare etapă a ciclului de viață al software-ului.
+
+1. Colectarea si analiza cerintelor: Analyze requirements/ make user stories
+2. Planificarea: Plan Test
+3. Proiectare: Design Test Case
+4. Dezvolatarea: Execute Test Cases
+5. Testarea: Report Bugs/ Defects
+6. Maintain Software: Report Test Results
